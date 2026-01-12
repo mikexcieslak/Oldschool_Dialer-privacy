@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fafafa;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5em;
+    }
+
+    h2 {
+      margin-top: 2em;
+      font-size: 1.3rem;
+    }
+
+    p {
+      margin: 0.8em 0;
+    }
+
+    ul {
+      margin-left: 1.2em;
+    }
+
+    footer {
+      margin-top: 3em;
+      padding-top: 1em;
+      border-top: 1px solid #ddd;
+      font-size: 0.9rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <h1>Privacy Policy</h1>
+
+    <p><strong>Last updated:</strong> January 2026</p>
+
+    <p>
+      This Privacy Policy explains how <strong>Oldschool Dialer app</strong>
+      (“the App”) handles information when you use it.
+    </p>
+
+    <h2>1. Information Collection</h2>
+    <p>
+      The App does <strong>not</strong> collect, store, or share personally
+      identifiable information such as your name, email address, or phone number.
+    </p>
+    <p>
+      The App does not require you to create an account.
+    </p>
+
+    <h2>2. Usage Data</h2>
+    <p>
+      The App may use third-party services that collect
+      <strong>anonymous and aggregated</strong> usage data to help improve
+      performance and stability. This data cannot be used to identify you
+      personally.
+    </p>
+    <p>
+      These services may include:
+    </p>
+    <ul>
+      <li>Google Play Services</li>
+      <li>Anonymous analytics or crash reporting tools (if enabled)</li>
+    </ul>
+
+    <h2>3. In-App Purchases / Tips</h2>
+    <p>
+      The App <strong>does not</strong> offer optional in-app purchases or tips.
+    </p>
+    <p>
+      The App does not collect or store any payment or billing information.
+    </p>
+
+    <h2>4. Data Sharing</h2>
+    <p>
+      The App does not sell, trade, or rent user data to third parties.
+    </p>
+
+    <h2>5. Children’s Privacy</h2>
+    <p>
+      The App does not knowingly collect personal information from children
+      under the age of 13.
+    </p>
+
+    <h2>6. Changes to This Policy</h2>
+    <p>
+      This Privacy Policy may be updated from time to time.
+      Any changes will be reflected on this page.
+    </p>
+
+    <h2>7. Contact</h2>
+    <p>
+      If you have any questions about this Privacy Policy, you can contact
+      the developer at:
+    </p>
+    <p>
+      <strong>Email:</strong> mike.x.cieslak@gmail.com
+    </p>
+
+    <footer>
+      <p>
+        © 2026 Oldschool Dialer. All rights reserved.
+      </p>
+    </footer>
+  </main>
+</body>
+</html>
